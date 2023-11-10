@@ -21,7 +21,7 @@ I'm a `Ruby` & `Ruby on Rails` developer.
 - tools that help accomplish specific goals and do it good
 - functional programming
 - UNIX-based operating systems
-- exploring and cutomizing my personal environment
+- exploring and customizing my personal environment
 - *VHS-era aesthetic*
 
 ### 📙 My main focus:
