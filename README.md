@@ -28,3 +28,5 @@ I'm a `Ruby` & `Ruby on Rails` developer.
 - everything Ruby & Rails related
 - writing software with meaning & impact
 - strive to become language & framework agnostic developer someday
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=koremori&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
