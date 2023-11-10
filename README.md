@@ -22,7 +22,7 @@ I'm a `Ruby` & `Ruby on Rails` developer.
 - functional programming
 - UNIX-based operating systems
 - exploring and customizing my personal environment
-- *VHS-era aesthetic*
+- *VHS-era aesthetic* ✨📼
 
 ### 📙 My main focus:
 - everything Ruby & Rails related
