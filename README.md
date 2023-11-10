@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 🌲
 
 <!--
 **koremori/koremori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a `Ruby` & `Ruby on Rails` developer.
+
+### ✨ Things that fascinate me:
+- simple and performant code
+- tools that help accomplish specific goals and do it good
+- functional programming
+- UNIX-based operating systems
+- exploring and cutomizing my personal environment
+- *VHS-era aesthetic*
+
+### 📙 My main focus:
+- everything Ruby & Rails related
+- writing software with meaning & impact
+- strive to become language & framework agnostic developer someday
