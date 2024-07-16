@@ -1,5 +1,14 @@
 # Hello there! 🌲
 
-### Sometimes I do stuff :0
+### Sometimes I ~~config~~ do stuff :0
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonezerone&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+```
+..∧＿∧
+（｡･ω･｡)つ━☆・*。
+⊂　　 ノ 　　　・゜+.
+しーＪ　　　°。+ *´¨)
+　　　　　　　　　.· ´¸.·*´¨) ¸.·*¨)
+　　　　　　　　　　(¸.·´ (¸.·'* ☆TEKST☆ ・*。・゜+.
+```
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonezerone&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
